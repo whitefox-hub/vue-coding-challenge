@@ -18,7 +18,7 @@
 
 
     <br>
-    <h4 v-if="encode.length"> Encode Uno: {{ array_dos.join("") }}</h4>
+    <h4 v-if="encode.length"> Encode Dos: {{ array_dos.join("") }}</h4>
     <br>
     <ul>
         <li v-for="value in array_dos">
